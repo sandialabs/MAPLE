@@ -1,6 +1,6 @@
 # MAPLE
 
-##Note: this repository was formerly named EAGLE
+## Note: this repository was formerly named EAGLE
 
 ## Usage
 Implements a tensorflow mixed CNN and multi-head attention model for predicting gene expression from epigenetic data within or across organism species. The codebase includes data preparation helper functions (set_TSS_window_index.py and crosscompcov.py) that take pre-processed .bam files as inputs and provides data transformed for use by MAPLE for use with new data. Note that the code does set a seed for reproducibility. 
