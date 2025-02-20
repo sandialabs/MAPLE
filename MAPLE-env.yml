@@ -1,4 +1,4 @@
-name: eagle-env
+name: MAPLE-env
 channels:
   - conda-forge
   - bioconda
